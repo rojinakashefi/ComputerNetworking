@@ -30,7 +30,6 @@ Client functions:
 
 - Pong
 
----
 
 ## Labs
 
