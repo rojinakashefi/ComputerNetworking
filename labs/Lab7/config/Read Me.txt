@@ -1,0 +1,14 @@
+// following configurations are set for the first Router (R1/Myrouter1)
+
+username1: MyName
+password1: mypassword
+
+
+privileged EXEC password: CISCO
+privileged EXEC secret: CISCO
+
+Virtual Terminals password: BOSON
+
+# history size = 50
+# clock set "time of performing the lab assignment"
+# clock = current time
